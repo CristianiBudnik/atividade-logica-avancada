@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "cliente": "Ana Silva",
+    "categoria": "Eletrônicos",
+    "valor": 1500.00,
+    "status": "pago"
+  },
+  {
+    "id": 2,
+    "cliente": "Carlos Souza",
+    "categoria": "Acessórios",
+    "valor": 250.50,
+    "status": "pendente"
+  },
+  {
+    "id": 3,
+    "cliente": "Mariana Costa",
+    "categoria": "Eletrônicos",
+    "valor": 800.00,
+    "status": "pago"
+  }
+]
